@@ -1,6 +1,6 @@
 # Actividad: Metodologías y Procesos de Desarrollo de Software
 
-XKAPU no puedo mantener la demanda del producto que lanzaron hace 2 años,
+XKAPU no pudo mantener la demanda del producto que lanzaron hace 2 años,
 por lo que requieren un rediseño total.
 
 Se logran identificar las siguiente características:
@@ -9,7 +9,14 @@ Se logran identificar las siguiente características:
 - Uno de los 4 componentes requiere una nueva arquitectura altamente escalable.
 - Los requisitos de los clientes se conocen muy bien.
 - El producto debe mantener exactamente la misma funcionalidad.
+- Constante comunicación con el cliente.
+- Diferencia geográfica entre los directivos y el equipo de codificación.
+  
 
 Las metodologías de software que proponemos son: 
-Cascada porque se conocen muy bien los requisitos del cliente
-Iterativo e Incremental porque se necesita retroalimentación constante sobre el código desplegado
+- Cascada porque se conocen muy bien los requisitos del cliente
+- Iterativo e Incremental porque se necesita retroalimentación constante sobre el código desplegado
+- Proceso Unificado porque se centra en la arquitectura, la gestión del ciclo de vida del software y mejores prácticas de desarrollo.
+- Kanban por 
+
+En conclusión acordamos escoger la metodología 
