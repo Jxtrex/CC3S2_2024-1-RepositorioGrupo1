@@ -10,3 +10,6 @@ Se logran identificar las siguiente características:
 - Los requisitos de los clientes se conocen muy bien.
 - El producto debe mantener exactamente la misma funcionalidad.
 
+Las metodologías de software que proponemos son: 
+Cascada porque se conocen muy bien los requisitos del cliente
+Iterativo e Incremental porque se necesita retroalimentación constante sobre el código desplegado
