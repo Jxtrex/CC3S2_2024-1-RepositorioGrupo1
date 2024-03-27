@@ -17,6 +17,6 @@ Las metodologías de software que proponemos son:
 - Cascada porque se conocen muy bien los requisitos del cliente
 - Iterativo e Incremental porque se necesita retroalimentación constante sobre el código desplegado
 - Proceso Unificado porque se centra en la arquitectura, la gestión del ciclo de vida del software y mejores prácticas de desarrollo.
-- Kanban por 
+- Kanban porque el equipo directivo y el equipo de codificación se encuentran geograficamente separados para priorizar la comunicación
 
-En conclusión acordamos escoger la metodología 
+En conclusión acordamos escoger la metodología Kanban porque la separación geográfica es un factor determinante para el desarrollo del producto.
