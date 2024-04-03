@@ -5,8 +5,10 @@
 Permitir a los usuarios poner a prueba sus habilidades en el juego de damas (English Draughts) ya sea contra jugadores en línea, sus amigos o contra el computador.
 
 ## Alcance:
-- Desarrollar una aplicación web donde se puedan llevar a cabo las partidas.
+- Desarrollar una aplicación web donde se puedan llevar a cabo las partidas en línea.
 - Brindar un servicio de retroalimentación con las partidas guardadas.
+- Incluir un modo multijugador entre usuarios registrados.
+- Implementar un modo de juego contra la máquina en un modo mayor al novato.
 
 ## Objetivos:
 - Completar la interfaz gráfica del juego y un sistema básico de gestión de usuarios en 5 días.
