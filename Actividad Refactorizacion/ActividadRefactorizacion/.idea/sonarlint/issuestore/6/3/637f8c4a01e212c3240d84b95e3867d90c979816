@@ -1,4 +1,15 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ý¨Ïœ8¥³ ƒú1J$ecf7fd6a-6673-49bc-88eb-3bedc751bdc9
-Š
-java:S2094"BRemove this empty class, write its code or make it an "interface".(çóàÁÿÿÿÿÿ8¦³ ƒú1J$369ba1c4-1a4b-416f-bf29-2048aebe6c4e
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ý¨Ïœ8‹â­ƒú1
+W
+java:S1172";Remove these unused method parameters "name", "department".( Ñ“
+8—â­ƒú1
+G	java:S106"+Replace this use of System.out by a logger.(€‹ÝÇ8˜â­ƒú1
+M
+java:S1172
+"+Remove this unused method parameter "name".(‹¸¬±ÿÿÿÿÿ8™â­ƒú1
+L	java:S106"+Replace this use of System.out by a logger.(âÑýÂûÿÿÿÿ8™â­ƒú1
+c
+java:S1172"FRemove these unused method parameters "employeeName", "newDepartment".(ÿî¸¸8šâ­ƒú1
+L	java:S106"+Replace this use of System.out by a logger.(ƒüé¨øÿÿÿÿ8šâ­ƒú1
+G	java:S106"+Replace this use of System.out by a logger.(Ò’¨‡8›â­ƒú1
+G	java:S106"+Replace this use of System.out by a logger.(Ç°³¿8›â­ƒú1

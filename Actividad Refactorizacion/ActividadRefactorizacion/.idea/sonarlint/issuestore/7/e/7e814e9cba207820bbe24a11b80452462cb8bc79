@@ -1,4 +1,6 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı¨Ïœ8‡Ÿƒú1
-…
-java:S2094"BRemove this empty class, write its code or make it an "interface".(‰û÷ñ8Í½ƒú1J$85066da0-2041-446d-a158-605c35411ef3
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı¨Ïœ8¯Ó±ƒú1J$5d52f34e-208d-44a3-b362-480da1a8ecee
+m	java:S106"+Replace this use of System.out by a logger.(×Ù¯Ê8´Ó±ƒú1J$f294092a-c3a1-46e6-8271-c27e7e83945c
+m	java:S106"+Replace this use of System.out by a logger.(Éßîß8µÓ±ƒú1J$25856859-2f2e-49f3-9317-29618c4d0001
+o
+java:S1068",Remove this unused "products" private field.(íĞûä8·Ó±ƒú1J$de34dde3-a185-474b-a2a6-01461bd22a1f
