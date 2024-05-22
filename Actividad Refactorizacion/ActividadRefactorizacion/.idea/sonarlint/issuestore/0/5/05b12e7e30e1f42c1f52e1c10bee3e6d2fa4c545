@@ -1,7 +1,0 @@
-
-q
-java:S1192"ODefine a constant instead of duplicating this literal " con mensaje: " 3 times.(ƒªÊ½şÿÿÿÿ8½¯ƒú1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı¨Ïœ8½¯ƒú1
-L	java:S106"+Replace this use of System.out by a logger.(ƒªÊ½şÿÿÿÿ8œ½¯ƒú1
-G	java:S106"+Replace this use of System.out by a logger.(€ç´·8½¯ƒú1
-F	java:S106"+Replace this use of System.out by a logger.(åƒù8½¯ƒú1

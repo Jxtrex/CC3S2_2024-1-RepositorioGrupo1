@@ -1,14 +1,0 @@
-
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı¨Ïœ8‹â­ƒú1J$ac675086-761f-4dd0-b6a8-84c7be66c3c6
-}
-java:S1172";Remove these unused method parameters "name", "department".( Ñ“
-8ÿ®é„ú1J$b4efd110-df16-4d9f-8ac1-be3e6ee72d76
-m	java:S106"+Replace this use of System.out by a logger.(€‹İÇ8›â­ƒú1J$75246d92-eac2-4dd1-96b3-b0d0f6f68b32
-s
-java:S1172"+Remove this unused method parameter "name".(‹¸¬±ÿÿÿÿÿ8€¯é„ú1J$1bb09ed7-3479-4a91-8f3c-eefad4b8aa80
-r	java:S106"+Replace this use of System.out by a logger.(âÑıÂûÿÿÿÿ8›â­ƒú1J$eb8de492-2273-45bc-8636-11af944e289f
-‰
-java:S1172"FRemove these unused method parameters "employeeName", "newDepartment".(ÿî¸¸8¯é„ú1J$9d414e1a-8c1a-4c54-8c44-c5f6f0fada6e
-r	java:S106"+Replace this use of System.out by a logger.(ƒüé¨øÿÿÿÿ8 ˜×„ú1J$f73c65a6-d017-4846-9747-4932257b0fc1
-m	java:S106""+Replace this use of System.out by a logger.(Ò’¨‡8¯é„ú1J$841e435b-d5c6-4b7f-91d9-b257180551f4
-m	java:S106)"+Replace this use of System.out by a logger.(Ç°³¿8‚¯é„ú1J$72b46fba-af6d-4cb9-962a-328e9b1f01f9
