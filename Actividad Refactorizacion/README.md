@@ -3,8 +3,9 @@
 [Actividad](https://univirtual.uni.pe/pluginfile.php/630235/mod_resource/content/1/Refactorizacion.pdf)
 
 ## Ejercicio 1
-Usaremos la métrica LCOM para medir la cohesión en el módulo.
-
+### Análisis Inicial del Código Fuente
+**Métricas de Cohesión**  
+**LCOM**
 >[!NOTE]
 >`LCOM = |P| - |Q|`  
 >`P: número de pares de métodos en la clase que no comparten atributos de instancia`  
@@ -30,6 +31,8 @@ Funciones funcionalmente no relacionadas:
 >Q = 2  
 >LCOM = 8-2 = 6
 
+**Métricas de Acoplamiento**
+**CF**
 
 
 ## Ejercicio 2
