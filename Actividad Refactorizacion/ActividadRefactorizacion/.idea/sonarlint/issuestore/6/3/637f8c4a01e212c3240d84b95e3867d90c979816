@@ -1,15 +1,14 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı¨Ïœ8‹â­ƒú1J$41e8f720-ba14-4216-8ce3-70d29de97b52
-W
-java:S1172";Remove these unused method parameters "name", "department".( Ñ“
-8ÿ®é„ú1
-m	java:S106"+Replace this use of System.out by a logger.(€‹İÇ8›â­ƒú1J$bfa2155c-e3a5-469d-bab0-7b251182d1d3
-M
-java:S1172
-"+Remove this unused method parameter "name".(‹¸¬±ÿÿÿÿÿ8€¯é„ú1
-r	java:S106"+Replace this use of System.out by a logger.(âÑıÂûÿÿÿÿ8›â­ƒú1J$81e52987-c82b-482e-b56c-5e43e3c00b54
-c
-java:S1172"FRemove these unused method parameters "employeeName", "newDepartment".(ÿî¸¸8¯é„ú1
-r	java:S106"+Replace this use of System.out by a logger.(ƒüé¨øÿÿÿÿ8 ˜×„ú1J$878023c5-d67e-4b2c-9580-9376ffc43e19
-G	java:S106"+Replace this use of System.out by a logger.(Ò’¨‡8¯é„ú1
-G	java:S106"+Replace this use of System.out by a logger.(Ç°³¿8‚¯é„ú1
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı¨Ïœ8‹â­ƒú1J$d8f7f1ab-eea7-4c26-bae5-9d7964b98a91
+}
+java:S1172";Remove these unused method parameters "name", "department".( Ñ“
+8ÿ®é„ú1J$d9ceca85-d809-4bfb-932d-93eb346b5b75
+m	java:S106"+Replace this use of System.out by a logger.(€‹İÇ8›â­ƒú1J$0523035f-f109-4833-a95e-28393a737919
+s
+java:S1172"+Remove this unused method parameter "name".(‹¸¬±ÿÿÿÿÿ8€¯é„ú1J$4bb4ff8e-fb58-40b7-8883-a2acf737a9de
+r	java:S106"+Replace this use of System.out by a logger.(âÑıÂûÿÿÿÿ8›â­ƒú1J$3acc1f20-ef9c-41de-abc8-8e142edb02f1
+‰
+java:S1172"FRemove these unused method parameters "employeeName", "newDepartment".(ÿî¸¸8¯é„ú1J$4f3f3119-8415-48b2-8c55-9f3ef624a35b
+r	java:S106"+Replace this use of System.out by a logger.(ƒüé¨øÿÿÿÿ8 ˜×„ú1J$8da5c17b-4753-493f-9dfd-addbfdb8bb25
+m	java:S106""+Replace this use of System.out by a logger.(Ò’¨‡8¯é„ú1J$b38e83f7-152c-492a-bece-2bbfac65f934
+m	java:S106)"+Replace this use of System.out by a logger.(Ç°³¿8‚¯é„ú1J$48570358-f6c1-40ee-9d8f-0947eafc0cf9
